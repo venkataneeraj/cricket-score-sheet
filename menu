@@ -1,0 +1,7 @@
+void menu()
+{
+    printf("\n\n\tMENU:\n");
+    printf("\n\n\n\t1.New scoresheet:\n");
+    printf("\t2.View scoresheet:\n");
+    printf("\t\t3.Exit:\n\t");
+}
